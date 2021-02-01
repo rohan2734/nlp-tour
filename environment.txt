@@ -1,0 +1,9 @@
+>conda  create -n nlpenv python=3.8
+
+>conda env remove --name nlpenv
+
+install jupyter notebook in the nplenv
+>conda install -c conda-forge notebook
+
+open jupyter notebook
+>jupyter notebook
