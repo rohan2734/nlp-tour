@@ -7,3 +7,5 @@ install jupyter notebook in the nplenv
 
 open jupyter notebook
 >jupyter notebook
+
+>conda install -c conda-forge pypdf2
