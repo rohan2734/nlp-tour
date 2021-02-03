@@ -9,3 +9,8 @@ open jupyter notebook
 >jupyter notebook
 
 >conda install -c conda-forge pypdf2
+
+run cmd as administrator
+>conda install -c conda-forge spacy
+
+>python -m spacy download en
