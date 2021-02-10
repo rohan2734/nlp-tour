@@ -17,3 +17,5 @@ run cmd as administrator
 
 installation of nltk
 >conda install -c anaconda nltk
+
+>conda install -c conda-forge segtok
