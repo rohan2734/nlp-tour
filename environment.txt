@@ -21,3 +21,5 @@ installation of nltk
 >conda install -c conda-forge segtok
 
 >conda install scikit-learn
+
+>conda install pandas
