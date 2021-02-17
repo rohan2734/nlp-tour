@@ -23,3 +23,8 @@ installation of nltk
 >conda install scikit-learn
 
 >conda install pandas
+
+>python -m spacy download en_core_web_lg
+
+(try this)
+>python -m spacy download en_core_web_md
