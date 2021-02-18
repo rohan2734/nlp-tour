@@ -16,9 +16,7 @@ run cmd as administrator
 >python -m spacy download en
 
 installation of nltk
->conda install -c anaconda nltk
-
->conda install -c conda-forge segtok
+>onda install -c conda-forge segtok
 
 >conda install scikit-learn
 
@@ -27,4 +25,5 @@ installation of nltk
 >python -m spacy download en_core_web_lg
 
 (try this)
->python -m spacy download en_core_web_md
+>python -m spacy download en_core_web_mdconda install -c anaconda nltk
+
