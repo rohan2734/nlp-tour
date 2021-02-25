@@ -27,3 +27,4 @@ installation of nltk
 (try this)
 >python -m spacy download en_core_web_mdconda install -c anaconda nltk
 
+>conda install -c conda-forge keras
